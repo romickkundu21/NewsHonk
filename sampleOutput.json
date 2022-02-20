@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Mike Ives",
+      "title": "Colorado Wildfires: What We Know - The New York Times",
+      "description": "The fires on Thursday burned at least 500 homes and forced tens of thousands of residents to evacuate.",
+      "url": "https://www.nytimes.com/2021/12/31/us/colorado-wildfires.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/01/30/world/30colorado-wildfire-what-we-know/merlin_199777053_0c274352-5dbd-40d0-beba-fedfbe9e09f2-facebookJumbo.jpg",
+      "publishedAt": "2021-12-31T14:30:11Z",
+      "content": "The fires on Thursday burned at least 500 homes, a shopping complex and a hotel, the authorities said. No deaths or major injuries had been reported as of early Friday. But some residents lost power,… [+1052 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Daniella Silva",
+      "title": "Omicron wave creates chaos for school districts post holiday breaks - NBC News",
+      "description": "Major school districts are pushing an in-person return starting in early January with a focus on testing.",
+      "url": "https://www.nbcnews.com/news/us-news/omicron-wave-creates-chaos-school-districts-post-holiday-breaks-rcna10483",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211230-nyc-public-school-2020-ac-420p-f51062.jpg",
+      "publishedAt": "2021-12-31T14:21:26Z",
+      "content": "As another surge of Covid cases has swept the U.S., school districts around the country are pushing to keep classrooms open next week when students return from winter breaks.\r\nOfficials in the countr… [+4418 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Laura Smith-Spark and Lauren Said-Moorhouse, CNN",
+      "title": "Prince Andrew in the spotlight after Ghislaine Maxwell conviction - CNN",
+      "description": "Prince Andrew was barely mentioned in the course of British socialite Ghislaine Maxwell's sex trafficking trial in New York. But the fact jurors found her guilty on five of six counts related to her role in Jeffrey Epstein's sexual abuse of minor girls can ha…",
+      "url": "https://www.cnn.com/2021/12/30/europe/ghislaine-maxwell-verdict-prince-andrew-intl-gbr/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211230085734-prince-andrew-2020-file-super-tease.jpg",
+      "publishedAt": "2021-12-31T14:11:00Z",
+      "content": "London (CNN)Prince Andrew was barely mentioned in the course of British socialite Ghislaine Maxwell's sex trafficking trial in New York. But the fact jurors found her guilty on five of six counts rel… [+9662 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Kardashian-Jenner Family Christmas Party a Scaled Back, High Fashion Event - TMZ",
+      "description": "Who says you never get dressed up for your family?",
+      "url": "https://www.tmz.com/2021/12/31/kardashian-jenner-family-christmas-party-scaled-back-fashion/",
+      "urlToImage": "https://imagez.tmz.com/image/6a/16by9/2021/12/31/6a0232cd981242e3b77c5a923403bfc4_xl.jpg",
+      "publishedAt": "2021-12-31T14:08:00Z",
+      "content": "Who says you never get dressed up for your family?\r\nThe Kardashians had a scaled-back holiday this year -- with Omicron and such -- but it didn't stop them from dressing to the 9's in an impressive s… [+712 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Jennifer Jett, Joyce Gao",
+      "title": "The world rings in 2022 as omicron variant dashes NYE plans - NBC News",
+      "description": "The emergence of a new form of the coronavirus has dashed hopes that the end of the pandemic is in sight, and put a dampener on New Year celebrations.",
+      "url": "https://www.nbcnews.com/news/world/2022-new-years-events-scrapped-world-covid-omicron-rcna10516",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211231-sydney-new-years-al-0624-bc4279.jpg",
+      "publishedAt": "2021-12-31T13:56:38Z",
+      "content": "HONK KONG Another year, another variant.\r\nMuch like last year, 2021 is ending with the emergence of a new form of the coronavirus, dashing hopes that the end of the pandemic might be in sight.\r\nAnd a… [+2855 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WDIV ClickOnDetroit" },
+      "author": "Brandon Roux, Ken Haddad",
+      "title": "New Year’s Day winter storm in Southeast Michigan: Timing, how much snow - WDIV ClickOnDetroit",
+      "description": "A winter storm will kick off 2022 in Southeast Michigan with several inches of snow expected across the area by Sunday morning.",
+      "url": "https://www.clickondetroit.com/weather/2021/12/31/new-years-day-winter-storm-in-southeast-michigan-timing-how-much-snow/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ZPKM5GBE3BCVDESURHND5MFO6Q.jpg?_a=ATABlcW0",
+      "publishedAt": "2021-12-31T13:51:43Z",
+      "content": "A winter storm will kick off 2022 in Southeast Michigan with several inches of snow expected across the area by Sunday morning.\r\nHeres what we know about the snow heading our way on Saturday from Bra… [+1904 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Zoe Zoe",
+      "title": "Trucker Rogel Aguilera-Mederos' sentence reduced from 110 to 10 years after public outcry - CBS News",
+      "description": "Colorado Governor Jared Polis commuted the sentence Thursday, calling the trucker's original sentencing \"disproportionate\" to his crime.",
+      "url": "https://www.cbsnews.com/news/rogel-aguilera-mederos-sentence-commuted-10-years/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/12/17/4fb2dfdc-6e06-4e2d-bba1-ee3df5319f53/thumbnail/1200x630/a6576058107fcf5a82f06b99ef82248d/20211217-cbsn-denver-truck-driver-sentenced-forgiveness-source.jpg",
+      "publishedAt": "2021-12-31T13:30:00Z",
+      "content": "Colorado Governor Jared Polis has commuted the sentence of truck driver Rogel Aguilera-Mederos to 10 years with eligibility for parole in five. The 26-year-old was originally given a 110 year sentenc… [+3631 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Celina Tebor and Ryan W. Miller, USA TODAY",
+      "title": "US surpasses 2M cases in one week for first time during pandemic; South Africa study finds omicron less severe: Latest COVID-19 updates - USA TODAY",
+      "description": "The U.S. reported 2.1 million COVID-19 cases in the past week, topping the previous record of 1.7 million cases. Latest news.",
+      "url": "https://www.usatoday.com/story/news/health/2021/12/31/covid-omicron-us-cases-updates/9059897002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/31/USAT/c6f30382-3723-4503-993d-ed207cf94113-AP21363572103065.jpg?auto=webp&crop=2164,1218,x0,y109&format=pjpg&width=1200",
+      "publishedAt": "2021-12-31T12:56:15Z",
+      "content": "The United States reported more than 2 million coronavirus cases in one week, breaking yet another record as the omicron variant surges across the country. \r\nThe 2.49 million COVID-19 cases within th… [+6921 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Sinéad Baker",
+      "title": "Putin tells Biden US-Russia ties could collapse over Ukraine sanctions - Business Insider",
+      "description": "Putin told Biden in their call that sanctions over Ukraine \"could lead to a complete breakdown in ties between our countries,\" a Kremlin aide said.",
+      "url": "https://www.businessinsider.com/putin-warns-biden-call-relations-collapse-sanctions-ukraine-2021-12",
+      "urlToImage": "https://i.insider.com/61cef62fcc94ab0019d31ed3?width=1200&format=jpeg",
+      "publishedAt": "2021-12-31T12:47:14Z",
+      "content": "Russian President Vladimir Putin warned President Joe Biden in a phone call on Thursday that relations between the two countries could collapse if the US imposes sanctions on Russia over its actions … [+1562 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "The New York Times",
+      "title": "The Sports World's Most Memorable and Human Moments of 2021 - The New York Times",
+      "description": "Most of them happened off the courts and playing fields, when the competitions were over and the athletes were at their most human.",
+      "url": "https://www.nytimes.com/2021/12/31/sports/most-memorable-sports-moments-2021.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/12/30/sports/30sports-moments-biles/30sports-moments-biles-facebookJumbo.jpg",
+      "publishedAt": "2021-12-31T12:45:33Z",
+      "content": "One of the beautiful things about sports is the raw emotion. Perhaps more than in any other walk of life, athletes in the heat of the moment, endorphins flowing, let loose.\r\nAfter the wrestler Tamyra… [+1499 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Ryan McGee",
+      "title": "College Football Playoff -- Cincinnati playing for underdogs who never got chance - ESPN",
+      "description": "As the greatest party-crasher in CFP history, the Bearcats are carrying the banners of UCF, Boise State, Tulane and underdogs everywhere.",
+      "url": "https://www.espn.com/college-football/story/_/id/32962692/college-football-playoff-cincinnati-playing-underdogs-never-got-chance",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1230%2Fr956386_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-12-31T12:24:56Z",
+      "content": "On Friday afternoon, the Cincinnati Bearcats won't be playing merely on behalf of themselves. Instead, when the Bearcats run onto the field of the Jerry Dome for the College Football Playoff semifina… [+9624 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Space.com" },
+      "author": "Mike Wall",
+      "title": "Why the James Webb Space Telescope's sunshield deployment takes so long - Space.com",
+      "description": "It's a very complicated endeavor.",
+      "url": "https://www.space.com/james-webb-space-telescope-sunshield-deployment-explainer",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/etjoaP8kyjNkQkfM3cEHKF-1200-80.jpeg",
+      "publishedAt": "2021-12-31T11:00:53Z",
+      "content": "NASA's James Webb Space Telescope\r\n is three days into the deployment of its massive sunshield — and it still has about three days to go.\r\nThe $10 billion Webb launched on Christmas Day\r\n (Dec. 25) t… [+5071 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Push Square" },
+      "author": "Robert Ramsey",
+      "title": "Robert's Top 5 PS5, PS4 Games of 2021 - Push Square",
+      "description": "Smelling the game",
+      "url": "https://www.pushsquare.com/features/game-of-the-year-roberts-top-5-ps5-ps4-games-of-2021",
+      "urlToImage": "https://images.pushsquare.com/723a9d2c91bd1/1280x720.jpg",
+      "publishedAt": "2021-12-31T11:00:00Z",
+      "content": "Our individual Game of the Year articles allow our lovely team of writers to share their own personal PS5 and PS4 picks for 2021. Today, it's the turn of deputy editor Robert Ramsey.\r\nI had reasonabl… [+2702 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Frank Jordans",
+      "title": "Germany shuts down half of its 6 remaining nuclear plants - Associated Press",
+      "description": "BERLIN (AP) — Germany on Friday is shutting down half of the six nuclear plants it still has in operation, a year before the country draws the final curtain on its decades-long use of atomic power.",
+      "url": "https://apnews.com/article/technology-business-germany-angela-merkel-gerhard-schroeder-11b97717f822a38c90fb7483ffc825aa",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/68ce00733284413d805ffe2848bfee3d/3000.jpeg",
+      "publishedAt": "2021-12-31T10:32:28Z",
+      "content": "BERLIN (AP) Germany on Friday is shutting down half of the six nuclear plants it still has in operation, a year before the country draws the final curtain on its decades-long use of atomic power.\r\nTh… [+3089 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "James Marson",
+      "title": "Inside Europe’s Cocaine Gateway: ‘A Repeat of Miami in the 1980s’ - The Wall Street Journal",
+      "description": "Antwerp, now the No. 1 port in Europe for cocaine busts, has seen a rise in gang violence and corruption",
+      "url": "https://www.wsj.com/articles/inside-europes-cocaine-gateway-a-repeat-of-miami-in-the-1980s-11640946603",
+      "urlToImage": "https://images.wsj.net/im-448962/social",
+      "publishedAt": "2021-12-31T10:30:00Z",
+      "content": "ANTWERP, BelgiumFor centuries, goods flowing through the giant port here have enriched this elegant city, known for its diamonds, art and fashion.\r\nNow a different import from across the Atlanticcoca… [+122 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ashley Strickland, CNN",
+      "title": "Meteor showers, eclipses, full moons: All of the reasons to look up in 2022 - CNN",
+      "description": "The new year is sure to be a sky-gazer's delight with plenty of celestial events on the calendar. Total lunar eclipses, a multitude of meteor showers and supermoons will light up the sky in 2022.",
+      "url": "https://www.cnn.com/2021/12/31/world/full-moons-meteor-showers-eclipses-2022-scn/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211230100634-01-perseid-meteor-shower-2016-super-tease.jpg",
+      "publishedAt": "2021-12-31T10:03:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "",
+      "title": "Retired general warns the U.S. military could lead a coup after the 2024 election - NPR",
+      "description": "Retired Major General Paul Eaton says war-gaming and civics education could help assure that the military is better prepared for a contested election.",
+      "url": "https://www.npr.org/2021/12/31/1068930675/us-election-coup-january-6-military-constitution",
+      "urlToImage": "https://media.npr.org/assets/img/2021/12/29/eaton_wide-98fa8826df58feebc46c8a5ec50ff6e3239887fc.jpg?s=1400",
+      "publishedAt": "2021-12-31T10:01:00Z",
+      "content": "Retired two-star U.S. General Paul Eaton co-authored a recent op-ed about the fear that a coup could succeed after the 2024 elections.\r\nBrent Stirton/Getty Images\r\nAs the anniversary of the insurrect… [+4424 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Sam Shead",
+      "title": "Bank accidentally deposits $176 million into people's accounts on Christmas Day - CNBC",
+      "description": "Thousands of people got a surprise present on Christmas Day this year when a bank accidentally deposited £130 million across 75,000 transactions.",
+      "url": "https://www.cnbc.com/2021/12/31/santander-accidentally-put-millions-into-random-accounts-on-christmas-day.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106820496-1610020466082-gettyimages-96378039-BANCO_SANTANDER.jpeg?v=1610020526",
+      "publishedAt": "2021-12-31T09:24:37Z",
+      "content": "LONDON Thousands of people received a surprise gift on Christmas Day this year when European bank Santander accidentally deposited £130 million ($176 million) across 75,000 transactions.\r\nThe mistake… [+1740 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kendall Trammell and Elizabeth Wolfe, CNN",
+      "title": "Follow the New Year around the world - CNN",
+      "description": "Here's a handy list that shows you the timing of New Year's Eve countdowns around the world.",
+      "url": "https://www.cnn.com/2021/12/31/world/new-year-countdown-2021-trnd/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211231133257-03-nye-sydney-010122-super-tease.jpg",
+      "publishedAt": "2021-12-31T09:11:15Z",
+      "content": "By Kendall Trammell and Elizabeth Wolfe, CNN\r\n (CNN)People around the world are beginning to wave goodbye to 2021 and welcome 2022.\r\nThe Pacific Island nations of Tonga, Samoa and Kiribati are the fi… [+2514 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Amy Cheng",
+      "title": "Omicron has passed peak in South Africa, causing relatively few deaths and hospitalizations, authorities say - The Washington Post",
+      "description": "The country’s medical system has capacity to provide “routine health services,” authorities said, adding that certain coronavirus control measures would be rolled back.",
+      "url": "https://www.washingtonpost.com/world/2021/12/31/south-africa-omicron-coronavirus-peak/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A2G6MMTEYQI6ZG2ROEY7UGIMLY.jpg&w=1440",
+      "publishedAt": "2021-12-31T08:19:09Z",
+      "content": "The countrys medical system has capacity to provide routine health services, authorities said in a statement Thursday, adding that the government would roll back certain pandemic control measures.\r\nS… [+2632 chars]"
+    }
+  ]
+}
